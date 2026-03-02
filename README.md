@@ -14,7 +14,7 @@ The system implements a custom **Reliable UDP Protocol** (Application Layer) cap
 
 ### 1. CORE Topology
 <p align="center">
-  <img src="./prints/Topologia.png" alt="Topology" width="600">
+  <img src=".CC-TP2-main/prints/Topologia.png" alt="Topology" width="600">
   <br>
   <em>Network Topology running in CORE</em>
 </p>
@@ -23,7 +23,7 @@ The system implements a custom **Reliable UDP Protocol** (Application Layer) cap
 
 ### 2. Ground Control Dashboard
 <p align="center">
-  <img src="./prints/GroundControl.png" alt="Dashboard" width="600">
+  <img src=".CC-TP2-main/prints/GroundControl.png" alt="Dashboard" width="600">
   <br>
   <em>Real-time telemetry and control</em>
 </p>
@@ -32,7 +32,7 @@ The system implements a custom **Reliable UDP Protocol** (Application Layer) cap
 
 ### 3. NaveMae Dashboard
 <p align="center">
-  <img src="./prints/NaveMae.png" alt="NaveMae" width="600">
+  <img src=".CC-TP2-main/prints/NaveMae.png" alt="NaveMae" width="600">
   <br>
   <em>Mothership real-time orders to the rovers</em>
 </p>
